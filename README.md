@@ -101,6 +101,4 @@ Participants should ensure that their compressed models show significant improve
 For any questions or clarifications, please contact the challenge organizers.
 
 maksim.makarenko @ {aramco.com | kaust.edu.sa}
----
-End of Document.
 
