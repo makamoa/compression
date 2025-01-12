@@ -87,7 +87,7 @@ python test_obj.py
 Ensure that the compressed object detection model file is named `compressed_object_detection_model.pth` and is located in the same directory as the script.
 
 ## Baseline Results
-Participants should compare their compressed models against the following example baseline results (replace with actual values):
+Participants should compare their compressed models against some baseline results (example results):
 
 | Metric                | ResNet-50 | MobileNetV2 | YOLOv5-S |
 |-----------------------|-----------|-------------|----------|
